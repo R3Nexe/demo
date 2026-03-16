@@ -1,2 +1,3 @@
 def foo():
-    print("hello")
+    print("hellow world")
+    print("git workshop")
